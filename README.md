@@ -1,28 +1,22 @@
  # Repositório GitHub - Wa Project.
 ![Wa Project. Fórum](https://i.imgur.com/cNdiTH9.png)
-### Nome do repositório
-wa-tech-forum
+**Nome do repositório:** wa-tech-forum
 ## Descrição
-Nossos **wa**rriors (os desenvolvedores da Wa Project) deixam claro:
-Amam 💙 tecnologia e cultivam fortemente a troca de conhecimento.
-Esse espaço foi criado para compartilhamento de projetos, modelos de trabalho e claro, muita tecnologia, para gerar discussões épicas e colaborativas.
+Nossos **wa**rriors (os desenvolvedores da Wa Project) deixam claro:··
+Amam 💙 tecnologia e cultivam fortemente a troca de conhecimento.··
+Esse espaço foi criado para compartilhamento de projetos, modelos de trabalho e claro, muita tecnologia, para gerar discussões épicas e colaborativas.··
 Aproveitem!
 ## A Wa Project.
 Surgimos com o propósito de descomplicar a tecnologia, indo além das expectativas e entregando excelência.
 ## Regras 📚
-✅ Qualquer forma de desrespeito não será tolerada!
-
-✅ Essa é uma comunidade onde todos são bem-vindos e devem ser respeitados.
-
-✅ Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.
-
-✅ Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
-
-✅ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e recomendações de comportamento sejam respeitadas e também contamos com o bom senso de todos:
-
-✅ Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
+✅ Qualquer forma de desrespeito não será tolerada!··
+✅ Essa é uma comunidade onde todos são bem-vindos e devem ser respeitados.··
+✅ Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.··
+✅ Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.··
+✅ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e recomendações de comportamento sejam respeitadas e também contamos com o bom senso de todos.··
+✅ Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes.
 ## Pesquise no fórum 🔎
-Utilize a função de busca no topo do repositório (certifique-se de não estar em um fork)
+Utilize a função de busca no topo do repositório (certifique-se de não estar em um fork).··
 Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma pergunta/discussão parecida.
 ## Outros pontos
 Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
@@ -38,16 +32,13 @@ Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta 
 ## Como criar sua Pergunta/Discussão? 📝
 Na aba Discussions basta clicar no botão New discussion, na próxima página, basta escolher entre as 4 diferentes categorias:
 
-**Dicas:** Compartilhe dicas e links interessantes que você achou.
-
-**Discussão:** Proponha discussões ou reflexões sobre assuntos relacionados à profissão.
-
-**Mostre seu trabalho:** Divulgue seu trabalho, peça feedback e compartilhe sua experiência.
-
-**Perguntas e Respostas:** Pergunte e ajude a comunidade! 😃
+**Dicas:** Compartilhe dicas e links interessantes que você achou.··
+**Discussão:** Proponha discussões ou reflexões sobre assuntos relacionados à profissão.··
+**Mostre seu trabalho:** Divulgue seu trabalho, peça feedback e compartilhe sua experiência.··
+**Perguntas e Respostas:** Pergunte e ajude a comunidade! 😃··
 
 Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto.
 ## Trechos de código 💻
-Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no Codepen (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
+Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Github. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
 ## Linguagem 🇧🇷
 Todas as discussões devem ser abertas e respondidas em **pt-br**.
