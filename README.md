@@ -1,5 +1,5 @@
  # Repositório GitHub - Wa Project.
-![](RackMultipart20210610-4-isec15_html_37f3b205ae6d555c.png)
+![Wa Project. Fórum](https://i.imgur.com/cNdiTH9.png)
 ### Nome do repositório
 wa-tech-forum
 ## Descrição
@@ -50,4 +50,4 @@ Após selecionar a categoria, basta adicionar um título bem detalhado e caprich
 ## Trechos de código 💻
 Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no Codepen (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
 ## Linguagem 🇧🇷
-Todas as discussões devem ser abertas e respondidas em **pt-br**
+Todas as discussões devem ser abertas e respondidas em **pt-br**.
