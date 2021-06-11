@@ -11,10 +11,15 @@ Aproveitem!
 Surgimos com o propósito de descomplicar a tecnologia, indo além das expectativas e entregando excelência.
 ## Regras 📚
 ✅ Qualquer forma de desrespeito não será tolerada!
+
 ✅ Essa é uma comunidade onde todos são bem-vindos e devem ser respeitados.
+
 ✅ Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.
+
 ✅ Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
+
 ✅ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e recomendações de comportamento sejam respeitadas e também contamos com o bom senso de todos:
+
 ✅ Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
 ## Pesquise no fórum
 Utilize a função de busca no topo do repositório (certifique-se de não estar em um fork)
