@@ -1,15 +1,15 @@
  # Repositório GitHub - Wa Project.
 
-## Nome do repositório
+### Nome do repositório
 wa-tech-forum
-### Descrição
+## Descrição
 Nossos warriors (os desenvolvedores da Wa Project) deixam claro:
 Amam 💙 tecnologia e cultivam fortemente a troca de conhecimento.
 Esse espaço foi criado para compartilhamento de projetos, modelos de trabalho e claro, muita tecnologia, para gerar discussões épicas e colaborativas.
 Aproveitem!
-### A Wa Project.
+## A Wa Project.
 Surgimos com o propósito de descomplicar a tecnologia, indo além das expectativas e entregando excelência.
-### Regras 📝
+## Regras 📝
 ✅ Qualquer forma de desrespeito não será tolerada!
 
 ✅ Essa é uma comunidade onde todos são bem-vindos e devem ser respeitados.
@@ -21,17 +21,17 @@ Surgimos com o propósito de descomplicar a tecnologia, indo além das expectati
 ✅ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e recomendações de comportamento sejam respeitadas e também contamos com o bom senso de todos:
 
 ✅ Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
-### Pesquise no fórum
+## Pesquise no fórum
 Utilize a função de busca no topo do repositório (certifique-se de não estar em um fork)
 Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma pergunta/discussão parecida.
-### Outros pontos
+## Outros pontos
 Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
-## Quando criar uma Pergunta/Discussão? ⁉️
-### Dúvidas
+## Quando criar uma Pergunta/Discussão?
+### Dúvidas ⁉️
 Concentre suas perguntas em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
-### Discussões
+### Discussões 💬
 Discussões são sempre bem-vindas, ao formular uma discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
-### Ferramentas
+### Ferramentas 🧰
 Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica 😃
 Existe uma categoria só para dicas assim.
 ## Sua pergunta foi respondida? 🗣
@@ -50,5 +50,5 @@ Na aba Discussions basta clicar no botão New discussion, na próxima página, b
 Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto.
 ### Trechos de código
 Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no Codepen (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
-### Linguagem
-Todas as discussões devem ser abertas e respondidas em **pt-br**.
+### Linguagem 
+Todas as discussões devem ser abertas e respondidas em **pt-br**. 🇧🇷
