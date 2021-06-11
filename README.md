@@ -1,5 +1,5 @@
  # Repositório GitHub - Wa Project.
-
+![](RackMultipart20210610-4-isec15_html_37f3b205ae6d555c.png)
 ### Nome do repositório
 wa-tech-forum
 ## Descrição
@@ -21,20 +21,19 @@ Surgimos com o propósito de descomplicar a tecnologia, indo além das expectati
 ✅ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e recomendações de comportamento sejam respeitadas e também contamos com o bom senso de todos:
 
 ✅ Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
-## Pesquise no fórum
+## Pesquise no fórum 🔎
 Utilize a função de busca no topo do repositório (certifique-se de não estar em um fork)
 Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma pergunta/discussão parecida.
 ## Outros pontos
 Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 ## Quando criar uma Pergunta/Discussão?
-### Dúvidas ⁉️
+### Dúvidas 🔦
 Concentre suas perguntas em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
 ### Discussões 💬
 Discussões são sempre bem-vindas, ao formular uma discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
-### Ferramentas 🧰
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica 😃
-Existe uma categoria só para dicas assim.
-## Sua pergunta foi respondida? 🗣
+### Ferramentas 🛠
+Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. 😃 Existe uma categoria só para dicas assim.
+## Sua pergunta foi respondida? 📓
 Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta como respondida. Isso ajuda a filtrar as perguntas, além de dar um ponto para o colega que te ajudou e incentivar que as pessoas se ajudem mais e mais.
 ## Como criar sua Pergunta/Discussão? 📝
 Na aba Discussions basta clicar no botão New discussion, na próxima página, basta escolher entre as 4 diferentes categorias:
@@ -48,7 +47,7 @@ Na aba Discussions basta clicar no botão New discussion, na próxima página, b
 **Perguntas e Respostas:** Pergunte e ajude a comunidade! 😃
 
 Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto.
-## Trechos de código
+## Trechos de código 💻
 Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no Codepen (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
-## Linguagem 
-Todas as discussões devem ser abertas e respondidas em **pt-br**. 🇧🇷
+## Linguagem 🇧🇷
+Todas as discussões devem ser abertas e respondidas em **pt-br**
